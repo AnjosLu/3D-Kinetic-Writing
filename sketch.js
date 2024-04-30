@@ -18,7 +18,7 @@ let msg = "H"; let points = [];
 let fontX = -135; let fontY = 155; let fontSize = 400;
 
 function preload() {
-  font = loadFont("fonts/Roboto-Bold.ttf");
+  font = loadFont("Roboto-Bold.ttf");
 }
 
 function setup() {
