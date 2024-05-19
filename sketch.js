@@ -1,12 +1,3 @@
-/*
------ Coding Tutorial by Patt Vira ----- 
-Name: 3-Dimensional Kinetic Typography
-Video Tutorial: https://youtu.be/lUqKie4Cc00?si=5kBhlcyTsSmzCNM7
-
-Connect with Patt: @pattvira
-https://www.pattvira.com/
-----------------------------------------
-*/
 
 let size = 25;
 let rows; let cols;
